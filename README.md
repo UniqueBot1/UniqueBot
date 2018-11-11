@@ -35,4 +35,4 @@ General Commands
 daliy or weekly updates on the bot
 
 
-Credits to Twentysix26 for some code on the bot
+Credits to Twentysix26 for some code in the bot
