@@ -1,2 +1,14 @@
 # UniqueBot
-just for updates of my bot
+Commands the bot offers
+
+Music Commands
+!play
+<br>
+!skip
+!stop
+!pause
+!queue
+!resume
+!np
+!yt
+!volume
