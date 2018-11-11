@@ -36,6 +36,7 @@ daliy or weekly updates on the bot
 
 <br>
 The bot only really has music stuff working atm so please stand by as i work on adding alot mor stuff them extra commands work aswell
+<br>
 
 
 Credits to Twentysix26 for some code in the bot
