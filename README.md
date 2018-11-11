@@ -30,9 +30,12 @@ General Commands
 !invite (this will let or your freinds invite the bot to there server.)
 <br>
 !flip (do !flip @then the user)
+<br>
+!bank (will show a list of commands)
 
 <br>
 daliy or weekly updates on the bot
+<br>
 
 <br>
 The bot only really has music stuff working atm so please stand by as i work on adding alot mor stuff them extra commands work aswell
