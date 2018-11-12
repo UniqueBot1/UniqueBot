@@ -32,6 +32,25 @@ General Commands
 !flip (do !flip @then the user)
 <br>
 !bank (will show a list of commands)
+<br>
+
+Bank Commands
+<br>
+!register
+<br>
+!balance
+<br>
+!slot
+<br>
+!transfer
+<br>
+!payday
+<br>
+!leaderboard
+<br>
+!reset (Admin ONLY)
+<br>
+!set (Admin ONLY)
 
 <br>
 daliy or weekly updates on the bot
